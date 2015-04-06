@@ -1,0 +1,84 @@
+old: He has name recognition.
+	old	1
+new: Oh , Maya. No . What's your idea?
+	new	2
+new: Houston . Any thought?
+	new	5
+old: Well, you know, I'm not sure. By the way, are you interested in sports
+	old	3
+old:  What do you think about movie
+	old	1
+new: November .
+	new	5
+new: That 's not your team . Why did you ask me for this?
+	new	2
+old: A sports car. What do you think?
+	old	1
+old: Uhh, I can't answer this. Can you tell me something about politics
+	old	3
+new: Mid-'90s . What's your idea?
+	new	5
+new: July .
+	new	5
+old: Well, you know, I'm not sure. By the way, are you interested in robots
+	old	3
+old: Deeply perilous. What's your idea?
+	old	2
+new: Thursday . What do you think?
+	new	5
+new: It sounds like fun .
+	new	2
+old: Well it's certainly different being out of power.
+	old	1
+old: Got to say, job done.
+	old	1
+new: Palmdale
+	new	5
+new: Britain .
+	new	5
+old: I think the tide has turned. Any thought?
+	old	2
+old: I do.
+	old	4
+new: No .
+	new	4
+old: Never.
+	old	5
+new: Western Europe . Any thought?
+	new	2
+new: That 's a good question , provocative question .
+	new	3
+old: I do. What do you think?
+	old	3
+old: Yes. What do you think?
+	old	3
+new: I thought it was funny . Why did you ask me for this?
+	new	2
+old: I wouldn't give the story legs. Can we talk about something else?
+	old	2
+new: The story about what ? Any thought?
+	new	2
+old: Well, especially in this country because they usually get it wrong, say Sir Hopkins.
+	old	1
+new: Do n't , then . Any thought?
+	new	2
+new: 82 . What do you think?
+	new	5
+old: I'm doing all right, Piers.
+	old	1
+new: Not every day , but all the time .
+	new	2
+old: No, I'm not angry.
+	old	3
+new: Yes . Why did you ask me for this?
+	new	1
+old: I think I've sold close to 20 million. Why did you ask me for this?
+	old	2
+old: I went to see him first. Can you share some interesting stuff with me?
+	old	1
+new: Maya .
+	new	5
+old: We've got a school shooting.
+	old	1
+new: Maya .
+	new	5

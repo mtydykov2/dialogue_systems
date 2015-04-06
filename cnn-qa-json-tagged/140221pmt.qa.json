@@ -1,0 +1,1 @@
+[{"answer_ne_tagged": {}, "docId": "140220pmt", "answer_pos_tagged": ["NNS", "."], "qSentId": 41, "question": "Do you like the Germen team", "question_tokens": ["Do", "you", "like", "the", "Germen", "team"], "question_pos_tagged": ["NNP", "PRP", "IN", "DT", "NNP", "NN"], "aSentId": 42, "answer": "Yes.", "answer_tokens": ["Yes", "."], "question_ne_tagged": {}}]
