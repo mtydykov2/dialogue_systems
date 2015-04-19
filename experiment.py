@@ -18,7 +18,7 @@ def record_responses(new, old, answer_key, responses, question):
         responses.write("A:" + i[0] + "\n")
 
 
-f_name = "20_questions_5"
+f_name = "20_questions"
 dir = "C:\\actorimpersonator\\Test_Questions\\"
 f = open(dir+f_name+".txt")
 answer_key = open(f_name+"_answer_key.txt","w")

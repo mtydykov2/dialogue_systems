@@ -26,7 +26,7 @@ def ner_tag_tokens(token_list):
                 string = " ".join([word[0] for word in result[begin:i]])
                 ret[result[i-1][1]] = [string]
             else:
-                ret[result[i-1][1]].append([" ".join(word[0] for word in result[begin:i])])
+                ret[result[i-1][1]].append(" ".join(word[0] for word in result[begin:i]))
 
         if not added: i += 1
     return ret
