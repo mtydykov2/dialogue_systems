@@ -4,6 +4,7 @@ import nltk
 from collections import defaultdict
 import json
 import os.path as path
+import os
 question_words = ["who","what","where","why", "when"]
 
 def LoadLanguageResource():
@@ -50,7 +51,7 @@ def LoadDataPair(datalist):
         database['A_ne_tagged'] = {}
 
         for datafile in datalist:
-                f = open(datafile)
+                f = open(os.path.join(os.path.dirname(__file__), datafile))
                 line = f.readline()
                 f.close()
                 raw_data = json.loads(str(line.strip()))

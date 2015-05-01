@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 
 import random
+import os
 def GenerateResponsePair(TopicLevel, Candidates, refine_strategy=-1):
         if TopicLevel==-1: #off topic
                 output = 'Ok. Tell me more about yourself.'
@@ -20,7 +21,7 @@ def FillTemplate(TemplateLib, TopicLib, template, answer=[]):
             if unit == 'answer':
                 sent_list.append(answerString)
             elif unit == 'topic':
-                topic_history = [line.strip() for line in open('topic_history.txt')]
+                topic_history = [line.strip() for line in open(os.path.join(os.path.dirname(__file__),'topic_history.txt'))]
                 fileout = open('topic_history.txt', 'a')
                 while unit == 'topic':
                     #bug fix: randint INCLUDES the upper bound, so must decrement by 1 to avoid

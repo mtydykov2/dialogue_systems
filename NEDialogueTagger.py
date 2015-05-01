@@ -3,14 +3,17 @@ import nltk
 import os
 import Loader
 import json
+import sys
 
 from nltk.tag.stanford import NERTagger
-st = NERTagger('stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz', 'stanford-ner/stanford-ner.jar')
+model = os.path.join(os.path.dirname(__file__), 'stanford-ner/classifiers/english.all.3class.distsim.crf.ser.gz')
+jar = os.path.join(os.path.dirname(__file__), 'stanford-ner/stanford-ner.jar')
+st = NERTagger(model, jar)
 os.environ['JAVAHOME'] = os.getenv('JAVA_HOME')+"/bin/"
 listfiles=['cnn_qa.list','movies.list']
 
 def ner_tag_tokens(token_list):
-    result = st.tag(token_list)
+    result = st.tag(token_list)[0]
     ret = {}
     i = 0
     while i < len(result):

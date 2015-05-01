@@ -54,11 +54,9 @@ import Control #@yipeiw
 import Loader
 import NLG
 import imp
-
 os.environ['GC_HOME'] = os.path.join(os.environ['OLYMPUS_ROOT'], 'Libraries', 'Galaxy')
 sys.path.append(os.path.join(os.environ['GC_HOME'], 'contrib', 'MITRE', 'templates'))
 sys.path.append(os.path.join(os.environ['OLYMPUS_ROOT'], 'bin', 'x86-nt'))
-
 import GC_py_init
 import Galaxy, GalaxyIO
 import time
@@ -93,9 +91,9 @@ def Log(input):
 #@yipeiw
 database = {}
 resource = {}
-listfiles=['cnn_qa_processed.list','movies_processed.list']
-rescource_root = 'resource'
-template_list=['template/template_new.txt', 'template/template_end.txt', 'template/template_open.txt', 'template/template_expand.txt']
+listfiles=[os.path.join(os.path.dirname(__file__), 'cnn_qa_processed.list'),os.path.join(os.path.dirname(__file__), 'movies_processed.list')]
+rescource_root = os.path.join(os.path.dirname(__file__), 'resource')
+template_list=[os.path.join(rescource_root, 'template/template_new.txt'), os.path.join(rescource_root, 'template/template_end.txt'), os.path.join(rescource_root, 'template/template_open.txt'), os.path.join(rescource_root, 'template/template_expand.txt')]
 template_list = [path.join(rescource_root, name) for name in template_list]
 topicfile = path.join(rescource_root, 'topic.txt')
 #currentime = time.strftime("%Y-%m-%d-%H-%M-%S", time.gmtime())
@@ -267,10 +265,10 @@ def get_response(user_input):
     output = unicode(NLG.FillTemplate(TemplateLib, TopicLib, Template[state['name']], answer))
     output2 = unicodedata.normalize('NFKD',output).encode('ascii','ignore')
     Log('OUTPUT is [ %s ]' %(output2))
-    #fileout = open('input_response_history.txt', 'a')
-    #fileout.write(str(user_input) + '\n')
-    #fileout.write(str(output) + '\n')
-    #fileout.close()
+    fileout = open(os.path.join(os.path.dirname(__file__), 'input_response_history.txt'), 'a')
+    fileout.write(str(user_input) + '\n')
+    fileout.write(str(output) + '\n')
+    fileout.close()
     return output2
 
 def LaunchQuery(env, dict):
@@ -310,10 +308,10 @@ def LaunchQuery(env, dict):
 
 
     if user_input:
-        user_input_processed = {"NE_tags":[tag[1] for tag in NEDialogueTagger.ner_tag_tokens(nltk.word_tokenize(user_input))], "tokens":nltk.word_tokenize(user_input)}
+        user_input_processed = {"NE_tags":[tag for tag in NEDialogueTagger.ner_tag_tokens(nltk.word_tokenize(user_input))], "tokens":nltk.word_tokenize(user_input)}
         #system_response = user_input
         #system_response = get_response(user_input)
-        filehistory = open('input_response_history.txt', 'r')
+        filehistory = open(os.path.join(os.path.dirname(__file__), 'input_response_history.txt'), 'r')
         system_tail = tail(filehistory, 4)
         filehistory.close()
         Log('USER INPUT is [ %s ]' %(user_input))
@@ -321,7 +319,7 @@ def LaunchQuery(env, dict):
         if user_input == '':
             system_response = 'pardon me'
         elif (user_input == 'repeat') or (user_input == 'say that again') or (user_input == 'what did you say'):
-            filein = open('history.txt','r')
+            filein = open(os.path.join(os.path.dirname(__file__), 'history.txt'),'r')
             system_response = filein.readline()
             filein.close()
         elif (system_tail[0] == system_tail[2]) and (system_tail[0] == user_input):
@@ -510,16 +508,16 @@ def LaunchQueryDebug(user_input):
 # this guy is only used in debugging
         #system_response = user_input
         #system_response = get_response(user_input)
-        filehistory = open('input_response_history.txt', 'r')
+        filehistory = open(os.path.join(os.path.dirname(__file__), 'input_response_history.txt'), 'r')
         system_tail = tail(filehistory, 4)
         filehistory.close()
         Log('USER INPUT is [ %s ]' %(user_input))
-        user_input_processed = {"NE_tags":[tag[1] for tag in NEDialogueTagger.ner_tag_tokens(nltk.word_tokenize(user_input))], "tokens":nltk.word_tokenize(user_input)}
+        user_input_processed = {"NE_tags":[tag for tag in NEDialogueTagger.ner_tag_tokens(nltk.word_tokenize(user_input))], "tokens":nltk.word_tokenize(user_input)}
         get_person_name(user_input, user_input_processed)
         if user_input == '':
             system_response = 'pardon me?'
         elif (user_input == 'repeat') or (user_input == 'say that again') or (user_input == 'what did you say'):
-            filein = open('history.txt','r')
+            filein = open(os.path.join(os.path.dirname(__file__), 'history.txt'),'r')
             system_response = filein.readline()
             filein.close()
         elif (system_tail[0] == system_tail[2]) and (system_tail[0] == user_input):
@@ -527,7 +525,7 @@ def LaunchQueryDebug(user_input):
                               ' if not, you can say goodbye'
         else:
             system_response = get_response(user_input)
-        fileout = open('history.txt', 'w')
+        fileout = open(os.path.join(os.path.dirname(__file__), 'history.txt'), 'w')
         fileout.write(str(system_response) + '\n')
         fileout.close()
         prefix = ['', 'well ... ', 'uh ... ', '', 'let me see ... ', 'oh ... ']
