@@ -39880,3 +39880,279 @@
 2015-04-21 13:43:47,269 ERROR USER INPUT is [ My name is Maya ]
 2015-04-21 13:43:47,269 ERROR USER INPUT is [ My name is Maya ]
 2015-04-21 13:56:47,441 ERROR Starting Galaxy Server
+2015-05-01 14:43:15,173 ERROR Starting Galaxy Server
+2015-05-01 14:44:16,280 ERROR <frame c reinitialize {':domain': 'cmu', ':server_type': 'gal_be', ':user_id': 'Kiosk', ':initialize': 1} []>
+2015-05-01 14:44:16,280 ERROR Welcome to the new Backend Server
+2015-05-01 14:45:21,244 ERROR Launching a query
+2015-05-01 14:45:21,246 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:45:21,247 ERROR Converting inframe to galaxy frame
+2015-05-01 14:45:21,247 ERROR In Read Raw InFrame
+2015-05-01 14:45:21,249 ERROR ['c inframe ', 'query_type "1" ', '} ']
+2015-05-01 14:45:21,249 ERROR ######
+2015-05-01 14:45:21,249 ERROR c inframe
+2015-05-01 14:45:21,249 ERROR query_type "1"
+2015-05-01 14:45:21,250 ERROR RAW INFRAME is 
+{'query_type': '"1"', 'c': 'inframe'}
+2015-05-01 14:45:34,135 ERROR Launching a query
+2015-05-01 14:45:34,135 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:45:34,138 ERROR Converting inframe to galaxy frame
+2015-05-01 14:45:34,138 ERROR In Read Raw InFrame
+2015-05-01 14:45:34,138 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:45:34,138 ERROR ######
+2015-05-01 14:45:34,138 ERROR c inframe
+2015-05-01 14:45:34,138 ERROR query_type "3"
+2015-05-01 14:45:34,140 ERROR user_input ""
+2015-05-01 14:45:34,140 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:45:40,595 ERROR Launching a query
+2015-05-01 14:45:40,595 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:45:40,596 ERROR Converting inframe to galaxy frame
+2015-05-01 14:45:40,596 ERROR In Read Raw InFrame
+2015-05-01 14:45:40,598 ERROR ['c inframe ', 'query_type "3" ', 'user_input "MY_NAME_IS_MAYA" ', '} ']
+2015-05-01 14:45:40,598 ERROR ######
+2015-05-01 14:45:40,598 ERROR c inframe
+2015-05-01 14:45:40,598 ERROR query_type "3"
+2015-05-01 14:45:40,599 ERROR user_input "my_name_is_maya"
+2015-05-01 14:45:40,599 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '"my_name_is_maya"'}
+2015-05-01 14:45:54,447 ERROR Launching a query
+2015-05-01 14:45:54,447 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:45:54,448 ERROR Converting inframe to galaxy frame
+2015-05-01 14:45:54,450 ERROR In Read Raw InFrame
+2015-05-01 14:45:54,450 ERROR ['c inframe ', 'query_type "3" ', 'user_input "HELLO" ', '} ']
+2015-05-01 14:45:54,450 ERROR ######
+2015-05-01 14:45:54,450 ERROR c inframe
+2015-05-01 14:45:54,451 ERROR query_type "3"
+2015-05-01 14:45:54,451 ERROR user_input "hello"
+2015-05-01 14:45:54,453 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '"hello"'}
+2015-05-01 14:46:03,078 ERROR Launching a query
+2015-05-01 14:46:03,078 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:46:03,081 ERROR Converting inframe to galaxy frame
+2015-05-01 14:46:03,082 ERROR In Read Raw InFrame
+2015-05-01 14:46:03,082 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:46:03,082 ERROR ######
+2015-05-01 14:46:03,082 ERROR c inframe
+2015-05-01 14:46:03,082 ERROR query_type "3"
+2015-05-01 14:46:03,082 ERROR user_input ""
+2015-05-01 14:46:03,084 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:46:11,134 ERROR Launching a query
+2015-05-01 14:46:11,135 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:46:11,137 ERROR Converting inframe to galaxy frame
+2015-05-01 14:46:11,138 ERROR In Read Raw InFrame
+2015-05-01 14:46:11,138 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:46:11,138 ERROR ######
+2015-05-01 14:46:11,138 ERROR c inframe
+2015-05-01 14:46:11,138 ERROR query_type "3"
+2015-05-01 14:46:11,140 ERROR user_input ""
+2015-05-01 14:46:11,140 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:46:16,588 ERROR Launching a query
+2015-05-01 14:46:16,589 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:46:16,592 ERROR Converting inframe to galaxy frame
+2015-05-01 14:46:16,592 ERROR In Read Raw InFrame
+2015-05-01 14:46:16,592 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:46:16,594 ERROR ######
+2015-05-01 14:46:16,594 ERROR c inframe
+2015-05-01 14:46:16,595 ERROR query_type "3"
+2015-05-01 14:46:16,595 ERROR user_input ""
+2015-05-01 14:46:16,595 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:46:31,161 ERROR Launching a query
+2015-05-01 14:46:31,161 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:46:31,174 ERROR Converting inframe to galaxy frame
+2015-05-01 14:46:31,174 ERROR In Read Raw InFrame
+2015-05-01 14:46:31,174 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:46:31,176 ERROR ######
+2015-05-01 14:46:31,176 ERROR c inframe
+2015-05-01 14:46:31,176 ERROR query_type "3"
+2015-05-01 14:46:31,177 ERROR user_input ""
+2015-05-01 14:46:31,177 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:46:59,513 ERROR <frame c reinitialize {':domain': 'cmu', ':server_type': 'gal_be', ':user_id': 'Kiosk', ':initialize': 1} []>
+2015-05-01 14:46:59,515 ERROR Welcome to the new Backend Server
+2015-05-01 14:47:29,997 ERROR Launching a query
+2015-05-01 14:47:29,997 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:47:30,000 ERROR Converting inframe to galaxy frame
+2015-05-01 14:47:30,000 ERROR In Read Raw InFrame
+2015-05-01 14:47:30,000 ERROR ['c inframe ', 'query_type "1" ', '} ']
+2015-05-01 14:47:30,002 ERROR ######
+2015-05-01 14:47:30,002 ERROR c inframe
+2015-05-01 14:47:30,002 ERROR query_type "1"
+2015-05-01 14:47:30,003 ERROR RAW INFRAME is 
+{'query_type': '"1"', 'c': 'inframe'}
+2015-05-01 14:47:45,466 ERROR Launching a query
+2015-05-01 14:47:45,467 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:47:45,467 ERROR Converting inframe to galaxy frame
+2015-05-01 14:47:45,469 ERROR In Read Raw InFrame
+2015-05-01 14:47:45,469 ERROR ['c inframe ', 'query_type "3" ', 'user_input "MY_NAME_IS_MAYA" ', '} ']
+2015-05-01 14:47:45,469 ERROR ######
+2015-05-01 14:47:45,470 ERROR c inframe
+2015-05-01 14:47:45,470 ERROR query_type "3"
+2015-05-01 14:47:45,470 ERROR user_input "my_name_is_maya"
+2015-05-01 14:47:45,470 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '"my_name_is_maya"'}
+2015-05-01 14:48:01,648 ERROR Launching a query
+2015-05-01 14:48:01,650 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:48:01,651 ERROR Converting inframe to galaxy frame
+2015-05-01 14:48:01,651 ERROR In Read Raw InFrame
+2015-05-01 14:48:01,651 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:48:01,651 ERROR ######
+2015-05-01 14:48:01,651 ERROR c inframe
+2015-05-01 14:48:01,653 ERROR query_type "3"
+2015-05-01 14:48:01,653 ERROR user_input ""
+2015-05-01 14:48:01,654 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:48:17,915 ERROR Launching a query
+2015-05-01 14:48:17,915 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:48:17,917 ERROR Converting inframe to galaxy frame
+2015-05-01 14:48:17,917 ERROR In Read Raw InFrame
+2015-05-01 14:48:17,918 ERROR ['c inframe ', 'query_type "3" ', 'user_input "KIK" ', '} ']
+2015-05-01 14:48:17,918 ERROR ######
+2015-05-01 14:48:17,918 ERROR c inframe
+2015-05-01 14:48:17,918 ERROR query_type "3"
+2015-05-01 14:48:17,920 ERROR user_input "kik"
+2015-05-01 14:48:17,920 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '"kik"'}
+2015-05-01 14:48:21,387 ERROR Launching a query
+2015-05-01 14:48:21,387 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:48:21,401 ERROR Converting inframe to galaxy frame
+2015-05-01 14:48:21,401 ERROR In Read Raw InFrame
+2015-05-01 14:48:21,401 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:48:21,401 ERROR ######
+2015-05-01 14:48:21,401 ERROR c inframe
+2015-05-01 14:48:21,403 ERROR query_type "3"
+2015-05-01 14:48:21,403 ERROR user_input ""
+2015-05-01 14:48:21,404 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:48:26,213 ERROR Launching a query
+2015-05-01 14:48:26,213 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:48:26,216 ERROR Converting inframe to galaxy frame
+2015-05-01 14:48:26,217 ERROR In Read Raw InFrame
+2015-05-01 14:48:26,217 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:48:26,217 ERROR ######
+2015-05-01 14:48:26,217 ERROR c inframe
+2015-05-01 14:48:26,217 ERROR query_type "3"
+2015-05-01 14:48:26,219 ERROR user_input ""
+2015-05-01 14:48:26,219 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:48:27,430 ERROR Launching a query
+2015-05-01 14:48:27,430 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:48:27,433 ERROR Converting inframe to galaxy frame
+2015-05-01 14:48:27,433 ERROR In Read Raw InFrame
+2015-05-01 14:48:27,434 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:48:27,434 ERROR ######
+2015-05-01 14:48:27,434 ERROR c inframe
+2015-05-01 14:48:27,434 ERROR query_type "3"
+2015-05-01 14:48:27,434 ERROR user_input ""
+2015-05-01 14:48:27,436 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:48:40,641 ERROR Launching a query
+2015-05-01 14:48:40,641 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:48:40,642 ERROR Converting inframe to galaxy frame
+2015-05-01 14:48:40,642 ERROR In Read Raw InFrame
+2015-05-01 14:48:40,644 ERROR ['c inframe ', 'query_type "3" ', 'user_input "MY_NAME_IS_MAYA" ', '} ']
+2015-05-01 14:48:40,644 ERROR ######
+2015-05-01 14:48:40,644 ERROR c inframe
+2015-05-01 14:48:40,644 ERROR query_type "3"
+2015-05-01 14:48:40,644 ERROR user_input "my_name_is_maya"
+2015-05-01 14:48:40,644 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '"my_name_is_maya"'}
+2015-05-01 14:49:04,213 ERROR Launching a query
+2015-05-01 14:49:04,213 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:49:04,217 ERROR Converting inframe to galaxy frame
+2015-05-01 14:49:04,217 ERROR In Read Raw InFrame
+2015-05-01 14:49:04,217 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:49:04,217 ERROR ######
+2015-05-01 14:49:04,217 ERROR c inframe
+2015-05-01 14:49:04,219 ERROR query_type "3"
+2015-05-01 14:49:04,219 ERROR user_input ""
+2015-05-01 14:49:04,220 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:49:07,049 ERROR Launching a query
+2015-05-01 14:49:07,049 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-01 14:49:07,052 ERROR Converting inframe to galaxy frame
+2015-05-01 14:49:07,052 ERROR In Read Raw InFrame
+2015-05-01 14:49:07,052 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-01 14:49:07,053 ERROR ######
+2015-05-01 14:49:07,053 ERROR c inframe
+2015-05-01 14:49:07,053 ERROR query_type "3"
+2015-05-01 14:49:07,055 ERROR user_input ""
+2015-05-01 14:49:07,055 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-01 14:49:47,148 ERROR USER INPUT is [ My name is Maya ]
+2015-05-01 14:51:36,640 ERROR USER INPUT is [ My name is Maya ]
+2015-05-01 14:51:44,280 ERROR DM STATE is [ {'tag': 'state', 'name': 'continue'} ]
+2015-05-01 14:51:44,280 ERROR OUTPUT is [ It looks like Maya . ]
+2015-05-01 14:51:49,115 ERROR DM STATE is [ {'tag': 'state', 'name': 'continue'} ]
+2015-05-01 14:51:49,115 ERROR OUTPUT is [ In New York ? ]
+2015-05-04 12:20:57,453 ERROR Starting Galaxy Server
+2015-05-04 12:21:15,414 ERROR <frame c reinitialize {':domain': 'cmu', ':server_type': 'gal_be', ':user_id': 'Kiosk', ':initialize': 1} []>
+2015-05-04 12:21:15,414 ERROR Welcome to the new Backend Server
+2015-05-04 12:21:38,171 ERROR Launching a query
+2015-05-04 12:21:38,173 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-04 12:21:38,174 ERROR Converting inframe to galaxy frame
+2015-05-04 12:21:38,174 ERROR In Read Raw InFrame
+2015-05-04 12:21:38,174 ERROR ['c inframe ', 'query_type "1" ', '} ']
+2015-05-04 12:21:38,176 ERROR ######
+2015-05-04 12:21:38,176 ERROR c inframe
+2015-05-04 12:21:38,176 ERROR query_type "1"
+2015-05-04 12:21:38,177 ERROR RAW INFRAME is 
+{'query_type': '"1"', 'c': 'inframe'}
+2015-05-04 12:21:51,151 ERROR Launching a query
+2015-05-04 12:21:51,151 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-04 12:21:51,154 ERROR Converting inframe to galaxy frame
+2015-05-04 12:21:51,154 ERROR In Read Raw InFrame
+2015-05-04 12:21:51,154 ERROR ['c inframe ', 'query_type "3" ', 'user_input "MY_NAME_IS_MAYA" ', '} ']
+2015-05-04 12:21:51,154 ERROR ######
+2015-05-04 12:21:51,154 ERROR c inframe
+2015-05-04 12:21:51,154 ERROR query_type "3"
+2015-05-04 12:21:51,154 ERROR user_input "my_name_is_maya"
+2015-05-04 12:21:51,155 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '"my_name_is_maya"'}
+2015-05-04 12:22:20,788 ERROR USER INPUT is [ my name is maya ]
+2015-05-04 12:22:50,466 ERROR Launching a query
+2015-05-04 12:22:50,466 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-04 12:22:50,467 ERROR Converting inframe to galaxy frame
+2015-05-04 12:22:50,469 ERROR In Read Raw InFrame
+2015-05-04 12:22:50,469 ERROR ['c inframe ', 'query_type "3" ', 'user_input "" ', '} ']
+2015-05-04 12:22:50,469 ERROR ######
+2015-05-04 12:22:50,470 ERROR c inframe
+2015-05-04 12:22:50,470 ERROR query_type "3"
+2015-05-04 12:22:50,470 ERROR user_input ""
+2015-05-04 12:22:50,470 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '""'}
+2015-05-04 12:23:14,510 ERROR Launching a query
+2015-05-04 12:23:14,510 ERROR [':tidx', ':session_id', ':inframe']
+2015-05-04 12:23:14,513 ERROR Converting inframe to galaxy frame
+2015-05-04 12:23:14,513 ERROR In Read Raw InFrame
+2015-05-04 12:23:14,515 ERROR ['c inframe ', 'query_type "3" ', 'user_input "MY_NAME_IS_MAYA" ', '} ']
+2015-05-04 12:23:14,515 ERROR ######
+2015-05-04 12:23:14,515 ERROR c inframe
+2015-05-04 12:23:14,515 ERROR query_type "3"
+2015-05-04 12:23:14,516 ERROR user_input "my_name_is_maya"
+2015-05-04 12:23:14,516 ERROR RAW INFRAME is 
+{'query_type': '"3"', 'c': 'inframe', 'user_input': '"my_name_is_maya"'}
+2015-05-04 12:24:14,980 ERROR USER INPUT is [ my name is maya ]
+2015-05-04 12:34:22,157 ERROR <frame c reinitialize {':domain': 'cmu', ':server_type': 'gal_be', ':user_id': 'Kiosk', ':initialize': 1} []>
+2015-05-04 12:34:22,157 ERROR Welcome to the new Backend Server
+2015-05-04 12:35:17,378 ERROR <frame c reinitialize {':domain': 'cmu', ':server_type': 'gal_be', ':user_id': 'Kiosk', ':initialize': 1} []>
+2015-05-04 12:35:17,378 ERROR Welcome to the new Backend Server
+2015-05-04 12:59:10,086 ERROR USER INPUT is [ m name is maya ]
+2015-05-04 12:59:45,690 ERROR USER INPUT is [ m name is maya ]
+2015-05-04 12:59:51,959 ERROR DM STATE is [ {'tag': 'state', 'name': 'continue'} ]
+2015-05-04 12:59:51,959 ERROR OUTPUT is [ I ' m alright . ]
+2015-05-04 12:59:56,056 ERROR DM STATE is [ {'tag': 'state', 'name': 'continue'} ]
+2015-05-04 12:59:56,056 ERROR OUTPUT is [ November . ]
+2015-05-04 13:09:33,042 ERROR USER INPUT is [ my name is maya ]
+2015-05-04 13:11:31,509 ERROR DM STATE is [ {'tag': 'state', 'name': 'expand'} ]
+2015-05-04 13:11:31,591 ERROR OUTPUT is [ maya . Care to elaborate? ]
+2015-05-04 13:13:33,316 ERROR USER INPUT is [ my name is maya ]
+2015-05-04 13:14:28,244 ERROR DM STATE is [ {'tag': 'state', 'name': 'continue'} ]
+2015-05-04 13:14:28,246 ERROR OUTPUT is [ Yes ? ]
+2015-05-04 13:15:05,214 ERROR USER INPUT is [ my name is maya ]
+2015-05-04 13:19:32,137 ERROR USER INPUT is [ my name is maya ]
+2015-05-04 13:27:07,095 ERROR USER INPUT is [ my name is maya ]
+2015-05-04 13:27:48,851 ERROR DM STATE is [ {'tag': 'state', 'name': 'expand'} ]
+2015-05-04 13:27:48,851 ERROR OUTPUT is [ Mid-'90s . Care to elaborate? ]

@@ -21,8 +21,8 @@ def FillTemplate(TemplateLib, TopicLib, template, answer=[]):
             if unit == 'answer':
                 sent_list.append(answerString)
             elif unit == 'topic':
-                topic_history = [line.strip() for line in open(os.path.join(os.path.dirname(__file__),'topic_history.txt'))]
-                fileout = open('topic_history.txt', 'a')
+                topic_history = [line.strip() for line in open(os.path.join(os.path.abspath(os.path.dirname(__file__)),'topic_history.txt'))]
+                fileout = open(os.path.join(os.path.abspath(os.path.dirname(__file__)),'topic_history.txt'), 'a')
                 while unit == 'topic':
                     #bug fix: randint INCLUDES the upper bound, so must decrement by 1 to avoid
                     #going out of index

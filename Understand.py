@@ -22,7 +22,10 @@ def AddWeight(tag_list, rules, stop_dict, question_words, ne_list):
             ne = tok_to_ne[start_index][1]
             if start_index not in added_nes:
                 result += [(sent[start_index:end_index], pos, 5, ne, "A")]
-                added_nes.append(start_index)
+                added_nes.append((start_index, end_index,))
+                added_rule = True
+        for start, end in added_nes:
+            if start_index > start and start_index < end:
                 added_rule = True
         if not added_rule:
             if rules[pos]>0:

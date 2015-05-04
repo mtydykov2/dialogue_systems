@@ -7148,3 +7148,51 @@ Can you name someone?I can name some dead ones.
 Would you tell me if he had?He almost got my name right.
 As things stand, he's going to walk it, isn't he?He has name recognition.
 
+She called Maya , who 's not working tonight , so we 're all going out .PRP VBD NNP , WP VBZ RB VBG RB , RB PRP VBP DT VBG RP .
+But you wanted to fuck me first .CC PRP VBD TO VB PRP RB .
+That -- would be an antelope -- or a deer -- a deerpalope .DT : MD VB DT NN : CC DT NN : DT NN .
+
+Miguelito , what is going on ? Frank called last night. Where are you ?NNP , WP VBZ VBG IN . NNP VBD JJ NNP NNP VBP PRP .
+You 're not from L.A. , huh ?PRP VBP RB IN NNP , NN .
+The one thing you 've missed most ?DT CD NN PRP VBP VBN JJS .
+
+I ' m serious .PRP VBP NN JJ .
+I ' m retired .PRP VBP NN VBN .
+I ' m sure .PRP VBP NN NN .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+Fine , Quincy .NN , NNP .
+I 'm fine .PRP VBP NN .
+Okay , fine ...NNP , NN :
+
+What is your intended purpose of your visit to the United States ?WP VBZ PRP$ VBN NN IN PRP$ NN TO DT NNP NNPS .
+You have plans for the holiday ?PRP VBP NNS IN DT NN .
+You wait here'n to take us ? Like you bus driver to dere ?PRP VBD JJ TO VB PRP . NNP PRP VBZ RB TO VB .
+
+Finally , just very quickly , one word answer or two word answers , who is going to win ?RB , RB RB RB , CD NN NN CC CD NN NNS , WP VBZ VBG TO VB .
+Norland in its entirety is therefore yours by law and I am happy for you and Fanny. But your stepmother my wife and daughters are left with only five hundred pounds a year , barely enough to live on and nothing for the girls ' dowries. You must help them .NNP IN PRP$ NN VBZ RB VBZ IN NN CC PRP VBP JJ IN PRP CC NNP CC PRP$ NN PRP$ NN CC NNS VBP VBN IN RB CD VBN NNS DT NN , RB RB TO VB IN CC NN IN DT NNS POS NNP NNP MD VB PRP .
+Who wins ?WP NNS .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+

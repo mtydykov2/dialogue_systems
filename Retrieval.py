@@ -5,6 +5,7 @@ find answer in database and by search engine
 """
 import random
 from collections import defaultdict
+import os
 
 
 #penalize too long sentence/ low relavance
@@ -14,8 +15,8 @@ def Select(Candidates):
     answer_strings = []
 
     print "Candidates for select ", Candidates
-
-    fileout = open('60question.txt', 'a') ## only for the use of retrieval_question
+    print "FILEPATH: " + str(os.path.join(os.path.abspath(os.path.dirname(__file__)),'60question.txt'))
+    fileout = open(os.path.join(os.path.abspath(os.path.dirname(__file__)),'60question.txt'), 'a') ## only for the use of retrieval_question
     for i in range(0, min(3, len(Candidates))):
         fileout.write(' '.join(Candidates[i][1]))
         fileout.write(' '.join(Candidates[i][2])+'\n')
@@ -28,7 +29,7 @@ def Select(Candidates):
         #MT: Added to replace random names with the person's name
         astring = " ".join(answer)
         if "PERSON" in answer_ne_tags.keys():
-            f = open("person_name")
+            f = open(os.path.join(os.path.abspath(os.path.dirname(__file__)),"person_name"))
             person_name = f.readline()
             names = answer_ne_tags["PERSON"]
             for name in names:
