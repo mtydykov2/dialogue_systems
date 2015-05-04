@@ -7148,3 +7148,19 @@ Can you name someone?I can name some dead ones.
 Would you tell me if he had?He almost got my name right.
 As things stand, he's going to walk it, isn't he?He has name recognition.
 
+She called Maya , who 's not working tonight , so we 're all going out .PRP VBD NNP , WP VBZ RB VBG RB , RB PRP VBP DT VBG RP .
+But you wanted to fuck me first .CC PRP VBD TO VB PRP RB .
+That -- would be an antelope -- or a deer -- a deerpalope .DT : MD VB DT NN : CC DT NN : DT NN .
+
+Miguelito , what is going on ? Frank called last night. Where are you ?NNP , WP VBZ VBG IN . NNP VBD JJ NNP NNP VBP PRP .
+You 're not from L.A. , huh ?PRP VBP RB IN NNP , NN .
+The one thing you 've missed most ?DT CD NN PRP VBP VBN JJS .
+
+I ' m serious .PRP VBP NN JJ .
+I ' m retired .PRP VBP NN VBN .
+I ' m sure .PRP VBP NN NN .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+

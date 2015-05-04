@@ -91,10 +91,12 @@ def Log(input):
 #@yipeiw
 database = {}
 resource = {}
-listfiles=[os.path.join(os.path.dirname(__file__), 'cnn_qa_processed.list'),os.path.join(os.path.dirname(__file__), 'movies_processed.list')]
-rescource_root = os.path.join(os.path.dirname(__file__), 'resource')
+listfiles=[os.path.join(os.path.abspath(os.path.dirname(__file__)), 'cnn_qa_processed.list'),os.path.join(os.path.abspath(os.path.dirname(__file__)), 'movies_processed.list')]
+rescource_root = os.path.join(os.path.abspath(os.path.dirname(__file__)), 'resource')
+print "RESOURCE ROOT: " + str(rescource_root)
 template_list=[os.path.join(rescource_root, 'template/template_new.txt'), os.path.join(rescource_root, 'template/template_end.txt'), os.path.join(rescource_root, 'template/template_open.txt'), os.path.join(rescource_root, 'template/template_expand.txt')]
 template_list = [path.join(rescource_root, name) for name in template_list]
+print "TEMPLATE LIST: " + str(template_list)
 topicfile = path.join(rescource_root, 'topic.txt')
 #currentime = time.strftime("%Y-%m-%d-%H-%M-%S", time.gmtime())
 #fileout = open(currentime, 'w')

@@ -51,7 +51,7 @@ def LoadDataPair(datalist):
         database['A_ne_tagged'] = {}
 
         for datafile in datalist:
-                f = open(os.path.join(os.path.dirname(__file__), datafile))
+                f = open(os.path.join(os.path.abspath(os.path.dirname(__file__)),datafile))
                 line = f.readline()
                 f.close()
                 raw_data = json.loads(str(line.strip()))
@@ -75,7 +75,7 @@ def LoadTemplate(filelist):
 	Library = {}
 	for filepath in filelist:
 		name = path.splitext(path.basename(filepath))[0]	
-		Library[name] = [line.strip() for line in open(filepath)]
+		Library[name] = [line.strip() for line in open(os.path.join(os.path.abspath(os.path.dirname(__file__)),filepath))]
 	return Library
 
 def LoadTopic(topicfile):

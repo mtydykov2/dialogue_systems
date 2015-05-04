@@ -6,8 +6,8 @@ import galbackend
 #gt = galbackend.Thread(target=galbackend.GalInterface)
 galbackend.InitLogging()
 galbackend.InitResource()
-galbackend.LaunchQueryDebug("My name is Maya")
-galbackend.get_response("when did you move to New York")
+galbackend.LaunchQueryDebug("m name is maya")
+galbackend.get_response("when did you move to new york")
 
 
 print ""
