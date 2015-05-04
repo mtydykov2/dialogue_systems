@@ -80,7 +80,8 @@ def get_score_updates(database, utterance_type, info, candidates, score_coeffici
     nes_to_match = []
     if utterance_type == "A":
         nes_to_match = scoreNes(database, utterance_type, info, candidates, score_coefficient, select, user_query_dict)
-    for idx, utter in database[utterance_type].items():
+    for idx, utter_allcases in database[utterance_type].items():
+        utter = [word.lower() for word in utter_allcases]
         # only look at things with short-ish answers
         if len(database["A"][idx]) < 15:
             score = 0
