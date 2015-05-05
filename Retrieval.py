@@ -52,10 +52,10 @@ def Select(Candidates):
     else:
         return (0, [], '')
 
-def FreqPairMatch(info, database, select=5):
+def FreqPairMatch(info, database, input_utter, select=5):
     Candidate = []
-    Candidate = get_score_updates(database, "Q", info, Candidate, 1, select)
-    Candidate = get_score_updates(database,"A", info, Candidate, 1, select)
+    Candidate = get_score_updates(database, "Q", info, Candidate, 1, select, input_utter)
+    Candidate = get_score_updates(database,"A", info, Candidate, 1, select, input_utter)
 
     if len(Candidate)>0:
         topiclevel = 1
@@ -76,8 +76,8 @@ def scoreNes(database, utterance_type, info, candidates, score_coefficient, sele
     return nes_to_match
 
 
-def get_score_updates(database, utterance_type, info, candidates, score_coefficient, select):
-    user_query_dict = {tup[0]:[tup[1],tup[2],tup[3],tup[4]] for tup in info}
+def get_score_updates(database, utterance_type, info, candidates, score_coefficient, select, input_utter):
+    user_query_dict = {tup[0]:[tup[1],tup[2],tup[3]] for tup in info}
     nes_to_match = []
     if utterance_type == "A":
         nes_to_match = scoreNes(database, utterance_type, info, candidates, score_coefficient, select, user_query_dict)
@@ -88,20 +88,22 @@ def get_score_updates(database, utterance_type, info, candidates, score_coeffici
             score = 0
             # treat named entities separately, since they should really match in groups
             for ne in database[utterance_type+"_ne_tagged"][idx]:
-                # if we find a general NE type that we're looking for, increase score
+                # if we find a NE type that we're looking for to match a question word, increase score
                 if ne in nes_to_match:
                     score += 5
-            # don't want to double-match the same rule on both POS and NE. only try here if the NE did not match
+                # if there's a named entity in the database utterance and the
+                # entire string is in the human utterance, add 3 points
+                for item in database[utterance_type+"_ne_tagged"][idx][ne]:
+                    if item.lower() in input_utter:
+                        score += 3
+            #independently of what happens with the named entities,
+            #look at each token and if the surface form + POS tag matches, add the appropriate # of points
             for i, token in enumerate(user_query_dict.keys()):
-                # if it's a named entity, just check for matching words here (as long as it's the right utterance type)
-                if user_query_dict[token][2] != "O":
-                    if token in " ".join(utter) and (user_query_dict[token][-1]=="BOTH" or user_query_dict[token][-1]==utterance_type):
-                        score += user_query_dict[token][1]
                 # otherwise, check for POS
-                elif token in utter:
+                if token in utter:
                         # get the within-list token index from database
                         list_index = utter.index(token)
-                        if (database[utterance_type+"_pos_tags"][idx][list_index] == user_query_dict[token][0]) and (user_query_dict[token][-1]=="BOTH" or user_query_dict[token][-1]==utterance_type):
+                        if (database[utterance_type+"_pos_tags"][idx][list_index] == user_query_dict[token][0]):
                             score += user_query_dict[token][1]
             score = score_coefficient*float(score)/(len(info)+len(utter))
             if score > 0:

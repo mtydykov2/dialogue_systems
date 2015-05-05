@@ -34,9 +34,6 @@ def ner_tag_tokens(token_list):
         if not added: i += 1
     return ret
 
-
-
-
 def preprocess_database():
     datalist=[line.strip() for listfile in listfiles for line in open(listfile)]
     datalist_new = []

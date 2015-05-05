@@ -15,7 +15,7 @@ def FindCandidate(database, resource, input_utter, history = []):
         print "Understand"
         print meta_info
         print ""
-        Candidates, TopicLevel = Retrieval.FreqPairMatch(meta_info, database)
+        Candidates, TopicLevel = Retrieval.FreqPairMatch(meta_info, database, input_utter)
         relavance, answer, tag = Retrieval.Select(Candidates)
         print "answer from ", tag
 

@@ -7196,3 +7196,735 @@ When did you discover for the first time that Phoebe was being bullied ?WRB VBD 
 When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
 Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
 
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+What do we think we know ?WP VBP PRP VBP PRP VBP .
+What do they think happened to Madeleine ?WP VBP PRP VBP VBN TO NNP .
+What do we think of Michelle Obama ?WP VBP PRP VBP IN NNP NNP .
+
+Last week ...JJ NN :
+That one , last week .DT CD , JJ NN .
+That 's okay. I 'm sorry. That 's fucked up , dude. When was it ?DT VBZ NNP NNP NNP NNP NNP POS JJ IN , NNP NNP VBD PRP .
+
+Fine , Quincy .NN , NNP .
+I 'm fine .PRP VBP NN .
+Okay , fine ...NNP , NN :
+
+My team .PRP$ NN .
+Come with me. The team 's already waiting .NNP IN NNP NNP NN POS RB VBG .
+We think it might. That 's why we brought you here. We 've assembled your team -- they 're waiting for us now .PRP VBP PRP NNP NNP POS WRB PRP VBD PRP NNP NNP NNP VBD PRP$ NN : PRP VBP VBG IN PRP RB .
+
+Walk around the world .NNP IN DT NN .
+A nut cup .DT NN NN .
+So who won ?IN WP NN .
+
+People now have dignity when frying eggs ?NNS RB VBP NN WRB VBG NNS .
+When you walk around , are people supportive to you ?WRB PRP VBP RP , VBP NNS JJ TO PRP .
+I have put on some makeup and I am dressed as a woman .PRP VBP VBN IN DT NN CC PRP VBP VBN IN DT NN .
+
+What 's going on with your country ?WP VBZ VBG IN IN PRP$ NN .
+And when did you do it ?CC WRB VBD PRP VBP PRP .
+As far as I know it includes housing and meals and everything ... it is really quite an offer ...IN RB IN PRP VBP PRP VBZ VBG CC NNS CC NN : PRP VBZ RB RB DT NN :
+
+What is your intended purpose of your visit to the United States ?WP VBZ PRP$ VBN NN IN PRP$ NN TO DT NNP NNPS .
+You have plans for the holiday ?PRP VBP NNS IN DT NN .
+You wait here'n to take us ? Like you bus driver to dere ?PRP VBD JJ TO VB PRP . NNP PRP VBZ RB TO VB .
+
+Mochaccino. Actually , in the spirit of the pact , I do need to ask for your cooperation in one small matter .NN RB , IN DT NN IN DT NN , PRP VBP VBP TO VB IN PRP$ NN IN CD JJ NN .
+Oh - sorry -UH : NN :
+Did Bruno tell you this ?NNP NNP NN PRP DT .
+
+I 'm not interested .PRP VBP RB JJ .
+They gave me two weeks. I wasted most of it with your brother and his crew , who not only lost what pitiful few they managed to boost , but also alerted the heat as to our endeavor , making this even more difficult to achieve ...PRP VBD PRP CD NNP NNP VBD RBS IN PRP IN PRP$ NN CC PRP$ NN , WP RB RB VBD WP JJ JJ PRP VBD TO VB , CC RB VBD DT NN IN TO PRP$ NN , VBG DT RB RBR JJ TO VB :
+I never once saw anyone handle themselves the way you did down there in that bar. I do n't know where you learned it , but I sure as hell could use it .PRP RB RB VBD NN NN NNS DT NN PRP VBD RP EX IN DT NNP PRP VBP RB VB WRB PRP VBD PRP , CC PRP VBP IN NN MD VB PRP .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+Pure politics !NN NNS .
+Against my politics .IN PRP$ NNS .
+Is that sand we 've just seen ?VBZ IN NN PRP VBP RB VBN .
+
+You are ?PRP VBP .
+You are ?PRP VBP .
+They are ?PRP VBP .
+
+You are ?PRP VBP .
+You are ?PRP VBP .
+They are ?PRP VBP .
+
+Thoughts ?NNS .
+Your thoughts ?PRP$ NNS .
+Your thoughts ?PRP$ NNS .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+Oh yeah ? Like how ?UH NN . NNP WRB .
+Who do you like ?WP VBP PRP IN .
+Like hell you do .IN NN PRP VBP .
+
+Why are you here ?WRB VBP PRP RB .
+Why are they special ?WRB VBP PRP JJ .
+Why are you laughing ?WRB VBP PRP VBG .
+
+Doing pretty well ?VBG RB RB .
+Pretty .RB .
+Sounds pretty well figured out .NNS RB RB VBN RP .
+
+Both of us will never make it. But one of us can. Give me ten seconds , then break for the embassy and do n't stop running until you 're at the gates. It 's a hundred yards , so move it .DT IN PRP MD RB VB NNP CC CD IN PRP NNP NNP PRP RB VBZ , RB VB IN DT NN CC VBP RB VB VBG IN PRP VBP IN DT NNP NNP POS DT CD NNS , RB VB PRP .
+What are you going to sing ?WP VBP PRP VBG TO VBG .
+What are you going to play ?WP VBP PRP VBG TO VB .
+
+We should celebrate .PRP MD VB .
+Huntley told me today that if I come through on the Benton deposition , they may consider me for senior associate .NNP VBD PRP NN WDT IN PRP VBP IN IN DT NNP NN , PRP MD VB PRP IN JJ NN .
+I thought we should celebrate .PRP VBD PRP MD VB .
+
+A hotel would 've been fine. We 'll have to tell Mr Greenleaf how far his dollar has stretched .DT NN MD VB VBN NNP NNP NNP VBP TO VB NNP NNP WRB JJ PRP$ NN VBZ VBN .
+Okey-dokey , go ahead .JJ , VBP RB .
+What a funny guy !WP DT JJ NN .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+What do we think we know ?WP VBP PRP VBP PRP VBP .
+Do n't mess with the King .NNP RB VB IN DT NNP .
+Mary Talbot ! ! The girl that married Henry Percy. It seems she has petitioned the King , demanding a divorce from her husband ... that his prior betrothal to you was actually.. ..consummated. I knew this would come back to haunt us !NNP NNP . . DT NN IN JJ NNP NNP NNP VBZ PRP VBZ VBN DT NNP , VBG DT NN IN PRP$ NN : IN PRP$ NN NN TO PRP VBD NNP NNP NNP VBD DT MD VB RB TO VB PRP .
+
+What kind of thing are you going to be really getting into from a personal point of view ?WP NN IN NN VBP PRP VBG TO VB RB VBG IN IN DT JJ NN IN NN .
+Last week ...JJ NN :
+That one , last week .DT CD , JJ NN .
+
+Fine , Quincy .NN , NNP .
+I 'm fine .PRP VBP NN .
+Okay , fine ...NNP , NN :
+
+My team .PRP$ NN .
+Come with me. The team 's already waiting .NNP IN NNP NNP NN POS RB VBG .
+We think it might. That 's why we brought you here. We 've assembled your team -- they 're waiting for us now .PRP VBP PRP NNP NNP POS WRB PRP VBD PRP NNP NNP NNP VBD PRP$ NN : PRP VBP VBG IN PRP RB .
+
+They are. But you 're not going to jail. You 're going back to Germany .PRP VBP CC PRP VBP RB VBG TO NNP NNP NNP VBG RB TO NNP .
+Walk around the world .NNP IN DT NN .
+A nut cup .DT NN NN .
+
+People now have dignity when frying eggs ?NNS RB VBP NN WRB VBG NNS .
+When you walk around , are people supportive to you ?WRB PRP VBP RP , VBP NNS JJ TO PRP .
+I have put on some makeup and I am dressed as a woman .PRP VBP VBN IN DT NN CC PRP VBP VBN IN DT NN .
+
+So I 'll see you this weekend .IN PRP MD VB PRP DT NN .
+What 's going on with your country ?WP VBZ VBG IN IN PRP$ NN .
+And when did you do it ?CC WRB VBD PRP VBP PRP .
+
+What is your intended purpose of your visit to the United States ?WP VBZ PRP$ VBN NN IN PRP$ NN TO DT NNP NNPS .
+You have plans for the holiday ?PRP VBP NNS IN DT NN .
+You wait here'n to take us ? Like you bus driver to dere ?PRP VBD JJ TO VB PRP . NNP PRP VBZ RB TO VB .
+
+Mochaccino. Actually , in the spirit of the pact , I do need to ask for your cooperation in one small matter .NN RB , IN DT NN IN DT NN , PRP VBP VBP TO VB IN PRP$ NN IN CD JJ NN .
+Oh - sorry -UH : NN :
+Did Bruno tell you this ?NNP NNP NN PRP DT .
+
+Squint harder .NNP NN .
+I know , Ted .PRP VBP , NNP .
+I know , Ted .PRP VBP , NNP .
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+Pure politics !NN NNS .
+Against my politics .IN PRP$ NNS .
+Is that sand we 've just seen ?VBZ IN NN PRP VBP RB VBN .
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Weatherman. Channel 9 , Pittsburgh .NNP NNP CD , NNP .
+
+General Ulysses S. Grant 's field flask , my friend. Throw in one of those backpacks and we 'll call it even .NNP NNPS NNP NNP POS NN NN , PRP$ NNP NNP IN CD IN DT NNS CC PRP MD VB PRP RB .
+Is the government helping you here , the US government ?VBZ DT NN VBG PRP RB , DT NNP NN .
+You did n't let ME down. Or even Lou. We do n't live or die by what you scribble , Fink. You let Ben Geisler down. He liked you. Trusted you. And that 's why he 's gone. Fired. That guy had a heart as big as the outdoors , and you fucked him. He tried to convince me to fire you too , but that would be too easy. No , you 're under contract and you 're gon na stay that way. Anything you write will be the property of Capitol Pictures. And Capitol Pictures will not produce anything you write. Not until you grow up a little. You ai n't no writer , Fink you 're a goddamn write-off .PRP VBD RB VB PRP NNP CC RB NNP NNP VBP RB VB CC VB IN WP PRP VBP , NNP NNP VB NNP NNP NNP NNP VBD NNP NNP NNP CC IN VBZ WRB PRP VBZ NNP NNP NNP NN VBD DT NN IN JJ IN DT NNS , CC PRP VBD NNP NNP VBD TO NN PRP TO VB PRP RB , CC IN MD VB RB NNP NNP , PRP VBP IN NN CC PRP VBP JJ NN NN WDT -NONE- VBG PRP VBP MD VB DT NN IN NNP NNP CC NNP NNP MD RB VB NN PRP NNP NNP IN PRP VBP RP DT NNP NNP VBP RB DT NN , NNP PRP VBP DT NN NN .
+
+Thoughts ?NNS .
+Your thoughts ?PRP$ NNS .
+Your thoughts ?PRP$ NNS .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+Oh yeah ? Like how ?UH NN . NNP WRB .
+The Cook said I speak good English .DT NNP VBD PRP VBP JJ NNS .
+Since when does Ellie need moral supp --IN WRB VBZ NNP VBP JJ NN :
+
+Why are you here ?WRB VBP PRP RB .
+Why are they special ?WRB VBP PRP JJ .
+Why are you laughing ?WRB VBP PRP VBG .
+
+Doing pretty well ?VBG RB RB .
+Pretty .RB .
+Sounds pretty well figured out .NNS RB RB VBN RP .
+
+Both of us will never make it. But one of us can. Give me ten seconds , then break for the embassy and do n't stop running until you 're at the gates. It 's a hundred yards , so move it .DT IN PRP MD RB VB NNP CC CD IN PRP NNP NNP PRP RB VBZ , RB VB IN DT NN CC VBP RB VB VBG IN PRP VBP IN DT NNP NNP POS DT CD NNS , RB VB PRP .
+What are you going to sing ?WP VBP PRP VBG TO VBG .
+What are you going to play ?WP VBP PRP VBG TO VB .
+
+First Africa , now France .NNP NNP , RB NNP .
+Do n't guess. Just come for my day 's pay owing and to tell you I 'm heading East .NNP RB NNP NNP NN IN PRP$ NN POS NN NN CC TO VB PRP PRP VBP VBG NNP .
+Yes , he 's fine , too. You saw them at Easter .NNS , PRP VBZ NN , NNP NNP VBD PRP IN NNP .
+
+A hotel would 've been fine. We 'll have to tell Mr Greenleaf how far his dollar has stretched .DT NN MD VB VBN NNP NNP NNP VBP TO VB NNP NNP WRB JJ PRP$ NN VBZ VBN .
+Okey-dokey , go ahead .JJ , VBP RB .
+What a funny guy !WP DT JJ NN .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+What do we think we know ?WP VBP PRP VBP PRP VBP .
+Do n't mess with the King .NNP RB VB IN DT NNP .
+Mary Talbot ! ! The girl that married Henry Percy. It seems she has petitioned the King , demanding a divorce from her husband ... that his prior betrothal to you was actually.. ..consummated. I knew this would come back to haunt us !NNP NNP . . DT NN IN JJ NNP NNP NNP VBZ PRP VBZ VBN DT NNP , VBG DT NN IN PRP$ NN : IN PRP$ NN NN TO PRP VBD NNP NNP NNP VBD DT MD VB RB TO VB PRP .
+
+What kind of thing are you going to be really getting into from a personal point of view ?WP NN IN NN VBP PRP VBG TO VB RB VBG IN IN DT JJ NN IN NN .
+Last week ...JJ NN :
+That one , last week .DT CD , JJ NN .
+
+Fine , Quincy .NN , NNP .
+I 'm fine .PRP VBP NN .
+Okay , fine ...NNP , NN :
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+What do we think we know ?WP VBP PRP VBP PRP VBP .
+Do n't mess with the King .NNP RB VB IN DT NNP .
+Mary Talbot ! ! The girl that married Henry Percy. It seems she has petitioned the King , demanding a divorce from her husband ... that his prior betrothal to you was actually.. ..consummated. I knew this would come back to haunt us !NNP NNP . . DT NN IN JJ NNP NNP NNP VBZ PRP VBZ VBN DT NNP , VBG DT NN IN PRP$ NN : IN PRP$ NN NN TO PRP VBD NNP NNP NNP VBD DT MD VB RB TO VB PRP .
+
+What kind of thing are you going to be really getting into from a personal point of view ?WP NN IN NN VBP PRP VBG TO VB RB VBG IN IN DT JJ NN IN NN .
+Last week ...JJ NN :
+That one , last week .DT CD , JJ NN .
+
+Fine , Quincy .NN , NNP .
+I 'm fine .PRP VBP NN .
+Okay , fine ...NNP , NN :
+
+My team .PRP$ NN .
+Come with me. The team 's already waiting .NNP IN NNP NNP NN POS RB VBG .
+We think it might. That 's why we brought you here. We 've assembled your team -- they 're waiting for us now .PRP VBP PRP NNP NNP POS WRB PRP VBD PRP NNP NNP NNP VBD PRP$ NN : PRP VBP VBG IN PRP RB .
+
+They are. But you 're not going to jail. You 're going back to Germany .PRP VBP CC PRP VBP RB VBG TO NNP NNP NNP VBG RB TO NNP .
+Walk around the world .NNP IN DT NN .
+A nut cup .DT NN NN .
+
+People now have dignity when frying eggs ?NNS RB VBP NN WRB VBG NNS .
+When you walk around , are people supportive to you ?WRB PRP VBP RP , VBP NNS JJ TO PRP .
+I have put on some makeup and I am dressed as a woman .PRP VBP VBN IN DT NN CC PRP VBP VBN IN DT NN .
+
+So I 'll see you this weekend .IN PRP MD VB PRP DT NN .
+What 's going on with your country ?WP VBZ VBG IN IN PRP$ NN .
+And when did you do it ?CC WRB VBD PRP VBP PRP .
+
+What is your intended purpose of your visit to the United States ?WP VBZ PRP$ VBN NN IN PRP$ NN TO DT NNP NNPS .
+You have plans for the holiday ?PRP VBP NNS IN DT NN .
+You wait here'n to take us ? Like you bus driver to dere ?PRP VBD JJ TO VB PRP . NNP PRP VBZ RB TO VB .
+
+Mochaccino. Actually , in the spirit of the pact , I do need to ask for your cooperation in one small matter .NN RB , IN DT NN IN DT NN , PRP VBP VBP TO VB IN PRP$ NN IN CD JJ NN .
+Oh - sorry -UH : NN :
+Did Bruno tell you this ?NNP NNP NN PRP DT .
+
+Squint harder .NNP NN .
+I know , Ted .PRP VBP , NNP .
+I know , Ted .PRP VBP , NNP .
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+Pure politics !NN NNS .
+Against my politics .IN PRP$ NNS .
+Is that sand we 've just seen ?VBZ IN NN PRP VBP RB VBN .
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Weatherman. Channel 9 , Pittsburgh .NNP NNP CD , NNP .
+
+General Ulysses S. Grant 's field flask , my friend. Throw in one of those backpacks and we 'll call it even .NNP NNPS NNP NNP POS NN NN , PRP$ NNP NNP IN CD IN DT NNS CC PRP MD VB PRP RB .
+Is the government helping you here , the US government ?VBZ DT NN VBG PRP RB , DT NNP NN .
+You did n't let ME down. Or even Lou. We do n't live or die by what you scribble , Fink. You let Ben Geisler down. He liked you. Trusted you. And that 's why he 's gone. Fired. That guy had a heart as big as the outdoors , and you fucked him. He tried to convince me to fire you too , but that would be too easy. No , you 're under contract and you 're gon na stay that way. Anything you write will be the property of Capitol Pictures. And Capitol Pictures will not produce anything you write. Not until you grow up a little. You ai n't no writer , Fink you 're a goddamn write-off .PRP VBD RB VB PRP NNP CC RB NNP NNP VBP RB VB CC VB IN WP PRP VBP , NNP NNP VB NNP NNP NNP NNP VBD NNP NNP NNP CC IN VBZ WRB PRP VBZ NNP NNP NNP NN VBD DT NN IN JJ IN DT NNS , CC PRP VBD NNP NNP VBD TO NN PRP TO VB PRP RB , CC IN MD VB RB NNP NNP , PRP VBP IN NN CC PRP VBP JJ NN NN WDT -NONE- VBG PRP VBP MD VB DT NN IN NNP NNP CC NNP NNP MD RB VB NN PRP NNP NNP IN PRP VBP RP DT NNP NNP VBP RB DT NN , NNP PRP VBP DT NN NN .
+
+Thoughts ?NNS .
+Your thoughts ?PRP$ NNS .
+Your thoughts ?PRP$ NNS .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+Oh yeah ? Like how ?UH NN . NNP WRB .
+The Cook said I speak good English .DT NNP VBD PRP VBP JJ NNS .
+Since when does Ellie need moral supp --IN WRB VBZ NNP VBP JJ NN :
+
+Why are you here ?WRB VBP PRP RB .
+Why are they special ?WRB VBP PRP JJ .
+Why are you laughing ?WRB VBP PRP VBG .
+
+Doing pretty well ?VBG RB RB .
+Pretty .RB .
+Sounds pretty well figured out .NNS RB RB VBN RP .
+
+Both of us will never make it. But one of us can. Give me ten seconds , then break for the embassy and do n't stop running until you 're at the gates. It 's a hundred yards , so move it .DT IN PRP MD RB VB NNP CC CD IN PRP NNP NNP PRP RB VBZ , RB VB IN DT NN CC VBP RB VB VBG IN PRP VBP IN DT NNP NNP POS DT CD NNS , RB VB PRP .
+What are you going to sing ?WP VBP PRP VBG TO VBG .
+What are you going to play ?WP VBP PRP VBG TO VB .
+
+First Africa , now France .NNP NNP , RB NNP .
+Do n't guess. Just come for my day 's pay owing and to tell you I 'm heading East .NNP RB NNP NNP NN IN PRP$ NN POS NN NN CC TO VB PRP PRP VBP VBG NNP .
+Yes , he 's fine , too. You saw them at Easter .NNS , PRP VBZ NN , NNP NNP VBD PRP IN NNP .
+
+A hotel would 've been fine. We 'll have to tell Mr Greenleaf how far his dollar has stretched .DT NN MD VB VBN NNP NNP NNP VBP TO VB NNP NNP WRB JJ PRP$ NN VBZ VBN .
+Okey-dokey , go ahead .JJ , VBP RB .
+What a funny guy !WP DT JJ NN .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+First Africa , now France .NNP NNP , RB NNP .
+Do n't guess. Just come for my day 's pay owing and to tell you I 'm heading East .NNP RB NNP NNP NN IN PRP$ NN POS NN NN CC TO VB PRP PRP VBP VBG NNP .
+Yes , he 's fine , too. You saw them at Easter .NNS , PRP VBZ NN , NNP NNP VBD PRP IN NNP .
+
+What do we think we know ?WP VBP PRP VBP PRP VBP .
+Do n't mess with the King .NNP RB VB IN DT NNP .
+Mary Talbot ! ! The girl that married Henry Percy. It seems she has petitioned the King , demanding a divorce from her husband ... that his prior betrothal to you was actually.. ..consummated. I knew this would come back to haunt us !NNP NNP . . DT NN IN JJ NNP NNP NNP VBZ PRP VBZ VBN DT NNP , VBG DT NN IN PRP$ NN : IN PRP$ NN NN TO PRP VBD NNP NNP NNP VBD DT MD VB RB TO VB PRP .
+
+Oh yeah ? Like how ?UH NN . NNP WRB .
+The Cook said I speak good English .DT NNP VBD PRP VBP JJ NNS .
+Since when does Ellie need moral supp --IN WRB VBZ NNP VBP JJ NN :
+
+Doing pretty well ?VBG RB RB .
+Pretty .RB .
+Sounds pretty well figured out .NNS RB RB VBN RP .
+
+Finally , just very quickly , one word answer or two word answers , who is going to win ?RB , RB RB RB , CD NN NN CC CD NN NNS , WP VBZ VBG TO VB .
+Norland in its entirety is therefore yours by law and I am happy for you and Fanny. But your stepmother my wife and daughters are left with only five hundred pounds a year , barely enough to live on and nothing for the girls ' dowries. You must help them .NNP IN PRP$ NN VBZ RB VBZ IN NN CC PRP VBP JJ IN PRP CC NNP CC PRP$ NN PRP$ NN CC NNS VBP VBN IN RB CD VBN NNS DT NN , RB RB TO VB IN CC NN IN DT NNS POS NNP NNP MD VB PRP .
+Who wins ?WP NNS .
+
+They are. But you 're not going to jail. You 're going back to Germany .PRP VBP CC PRP VBP RB VBG TO NNP NNP NNP VBG RB TO NNP .
+Walk around the world .NNP IN DT NN .
+A nut cup .DT NN NN .
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Weatherman. Channel 9 , Pittsburgh .NNP NNP CD , NNP .
+
+Both of us will never make it. But one of us can. Give me ten seconds , then break for the embassy and do n't stop running until you 're at the gates. It 's a hundred yards , so move it .DT IN PRP MD RB VB NNP CC CD IN PRP NNP NNP PRP RB VBZ , RB VB IN DT NN CC VBP RB VB VBG IN PRP VBP IN DT NNP NNP POS DT CD NNS , RB VB PRP .
+What are you going to sing ?WP VBP PRP VBG TO VBG .
+What are you going to play ?WP VBP PRP VBG TO VB .
+
+Why are you here ?WRB VBP PRP RB .
+Why are they special ?WRB VBP PRP JJ .
+Why are you laughing ?WRB VBP PRP VBG .
+
+General Ulysses S. Grant 's field flask , my friend. Throw in one of those backpacks and we 'll call it even .NNP NNPS NNP NNP POS NN NN , PRP$ NNP NNP IN CD IN DT NNS CC PRP MD VB PRP RB .
+Is the government helping you here , the US government ?VBZ DT NN VBG PRP RB , DT NNP NN .
+You did n't let ME down. Or even Lou. We do n't live or die by what you scribble , Fink. You let Ben Geisler down. He liked you. Trusted you. And that 's why he 's gone. Fired. That guy had a heart as big as the outdoors , and you fucked him. He tried to convince me to fire you too , but that would be too easy. No , you 're under contract and you 're gon na stay that way. Anything you write will be the property of Capitol Pictures. And Capitol Pictures will not produce anything you write. Not until you grow up a little. You ai n't no writer , Fink you 're a goddamn write-off .PRP VBD RB VB PRP NNP CC RB NNP NNP VBP RB VB CC VB IN WP PRP VBP , NNP NNP VB NNP NNP NNP NNP VBD NNP NNP NNP CC IN VBZ WRB PRP VBZ NNP NNP NNP NN VBD DT NN IN JJ IN DT NNS , CC PRP VBD NNP NNP VBD TO NN PRP TO VB PRP RB , CC IN MD VB RB NNP NNP , PRP VBP IN NN CC PRP VBP JJ NN NN WDT -NONE- VBG PRP VBP MD VB DT NN IN NNP NNP CC NNP NNP MD RB VB NN PRP NNP NNP IN PRP VBP RP DT NNP NNP VBP RB DT NN , NNP PRP VBP DT NN NN .
+
+My team .PRP$ NN .
+Come with me. The team 's already waiting .NNP IN NNP NNP NN POS RB VBG .
+We think it might. That 's why we brought you here. We 've assembled your team -- they 're waiting for us now .PRP VBP PRP NNP NNP POS WRB PRP VBD PRP NNP NNP NNP VBD PRP$ NN : PRP VBP VBG IN PRP RB .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+What is your intended purpose of your visit to the United States ?WP VBZ PRP$ VBN NN IN PRP$ NN TO DT NNP NNPS .
+You have plans for the holiday ?PRP VBP NNS IN DT NN .
+You wait here'n to take us ? Like you bus driver to dere ?PRP VBD JJ TO VB PRP . NNP PRP VBZ RB TO VB .
+
+So I 'll see you this weekend .IN PRP MD VB PRP DT NN .
+What 's going on with your country ?WP VBZ VBG IN IN PRP$ NN .
+And when did you do it ?CC WRB VBD PRP VBP PRP .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+Who would be the one in your lifetime that you think was the most effective president ?WP MD VB DT CD IN PRP$ NN WDT PRP VBP VBD DT JJS JJ NN .
+Not a god damn thing .RB DT NN NN NN .
+Thank you very much. Are n't you a gentleman ? Mr. ...NNP PRP RB NNP NNP RB PRP DT NN . NNP :
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+
+Pure politics !NN NNS .
+Against my politics .IN PRP$ NNS .
+Is that sand we 've just seen ?VBZ IN NN PRP VBP RB VBN .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+People now have dignity when frying eggs ?NNS RB VBP NN WRB VBG NNS .
+When you walk around , are people supportive to you ?WRB PRP VBP RP , VBP NNS JJ TO PRP .
+I have put on some makeup and I am dressed as a woman .PRP VBP VBN IN DT NN CC PRP VBP VBN IN DT NN .
+
+What kind of thing are you going to be really getting into from a personal point of view ?WP NN IN NN VBP PRP VBG TO VB RB VBG IN IN DT JJ NN IN NN .
+Last week ...JJ NN :
+That one , last week .DT CD , JJ NN .
+
+A hotel would 've been fine. We 'll have to tell Mr Greenleaf how far his dollar has stretched .DT NN MD VB VBN NNP NNP NNP VBP TO VB NNP NNP WRB JJ PRP$ NN VBZ VBN .
+Okey-dokey , go ahead .JJ , VBP RB .
+What a funny guy !WP DT JJ NN .
+
+Squint harder .NNP NN .
+I know , Ted .PRP VBP , NNP .
+I know , Ted .PRP VBP , NNP .
+
+Fine , Quincy .NN , NNP .
+I 'm fine .PRP VBP NN .
+Okay , fine ...NNP , NN :
+
+Thoughts ?NNS .
+Your thoughts ?PRP$ NNS .
+Your thoughts ?PRP$ NNS .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Weatherman. Channel 9 , Pittsburgh .NNP NNP CD , NNP .
+
+Who would be the one in your lifetime that you think was the most effective president ?WP MD VB DT CD IN PRP$ NN WDT PRP VBP VBD DT JJS JJ NN .
+Not a god damn thing .RB DT NN NN NN .
+Thank you very much. Are n't you a gentleman ? Mr. ...NNP PRP RB NNP NNP RB PRP DT NN . NNP :
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+Who would be the one in your lifetime that you think was the most effective president ?WP MD VB DT CD IN PRP$ NN WDT PRP VBP VBD DT JJS JJ NN .
+Not a god damn thing .RB DT NN NN NN .
+Thank you very much. Are n't you a gentleman ? Mr. ...NNP PRP RB NNP NNP RB PRP DT NN . NNP :
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+From France ?IN NNP .
+To Paris. Paris , France .TO NNP NNP , NNP .
+First Africa , now France .NNP NNP , RB NNP .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+President Obama ?NNP NNP .
+Michael Wolff , who is going to win this election ?NNP NNP , WP VBZ VBG TO VB DT NN .
+For President Obama ?IN NNP NNP .
+
+July .RB .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+What month ?WP NN .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+First Africa , now France .NNP NNP , RB NNP .
+Do n't guess. Just come for my day 's pay owing and to tell you I 'm heading East .NNP RB NNP NNP NN IN PRP$ NN POS NN NN CC TO VB PRP PRP VBP VBG NNP .
+Yes , he 's fine , too. You saw them at Easter .NNS , PRP VBZ NN , NNP NNP VBD PRP IN NNP .
+
+What do we think we know ?WP VBP PRP VBP PRP VBP .
+Do n't mess with the King .NNP RB VB IN DT NNP .
+Mary Talbot ! ! The girl that married Henry Percy. It seems she has petitioned the King , demanding a divorce from her husband ... that his prior betrothal to you was actually.. ..consummated. I knew this would come back to haunt us !NNP NNP . . DT NN IN JJ NNP NNP NNP VBZ PRP VBZ VBN DT NNP , VBG DT NN IN PRP$ NN : IN PRP$ NN NN TO PRP VBD NNP NNP NNP VBD DT MD VB RB TO VB PRP .
+
+Oh yeah ? Like how ?UH NN . NNP WRB .
+The Cook said I speak good English .DT NNP VBD PRP VBP JJ NNS .
+Since when does Ellie need moral supp --IN WRB VBZ NNP VBP JJ NN :
+
+Doing pretty well ?VBG RB RB .
+Pretty .RB .
+Sounds pretty well figured out .NNS RB RB VBN RP .
+
+Finally , just very quickly , one word answer or two word answers , who is going to win ?RB , RB RB RB , CD NN NN CC CD NN NNS , WP VBZ VBG TO VB .
+Norland in its entirety is therefore yours by law and I am happy for you and Fanny. But your stepmother my wife and daughters are left with only five hundred pounds a year , barely enough to live on and nothing for the girls ' dowries. You must help them .NNP IN PRP$ NN VBZ RB VBZ IN NN CC PRP VBP JJ IN PRP CC NNP CC PRP$ NN PRP$ NN CC NNS VBP VBN IN RB CD VBN NNS DT NN , RB RB TO VB IN CC NN IN DT NNS POS NNP NNP MD VB PRP .
+Who wins ?WP NNS .
+
+They are. But you 're not going to jail. You 're going back to Germany .PRP VBP CC PRP VBP RB VBG TO NNP NNP NNP VBG RB TO NNP .
+Walk around the world .NNP IN DT NN .
+A nut cup .DT NN NN .
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Weatherman. Channel 9 , Pittsburgh .NNP NNP CD , NNP .
+
+Both of us will never make it. But one of us can. Give me ten seconds , then break for the embassy and do n't stop running until you 're at the gates. It 's a hundred yards , so move it .DT IN PRP MD RB VB NNP CC CD IN PRP NNP NNP PRP RB VBZ , RB VB IN DT NN CC VBP RB VB VBG IN PRP VBP IN DT NNP NNP POS DT CD NNS , RB VB PRP .
+What are you going to sing ?WP VBP PRP VBG TO VBG .
+What are you going to play ?WP VBP PRP VBG TO VB .
+
+Why are you here ?WRB VBP PRP RB .
+Why are they special ?WRB VBP PRP JJ .
+Why are you laughing ?WRB VBP PRP VBG .
+
+General Ulysses S. Grant 's field flask , my friend. Throw in one of those backpacks and we 'll call it even .NNP NNPS NNP NNP POS NN NN , PRP$ NNP NNP IN CD IN DT NNS CC PRP MD VB PRP RB .
+Is the government helping you here , the US government ?VBZ DT NN VBG PRP RB , DT NNP NN .
+You did n't let ME down. Or even Lou. We do n't live or die by what you scribble , Fink. You let Ben Geisler down. He liked you. Trusted you. And that 's why he 's gone. Fired. That guy had a heart as big as the outdoors , and you fucked him. He tried to convince me to fire you too , but that would be too easy. No , you 're under contract and you 're gon na stay that way. Anything you write will be the property of Capitol Pictures. And Capitol Pictures will not produce anything you write. Not until you grow up a little. You ai n't no writer , Fink you 're a goddamn write-off .PRP VBD RB VB PRP NNP CC RB NNP NNP VBP RB VB CC VB IN WP PRP VBP , NNP NNP VB NNP NNP NNP NNP VBD NNP NNP NNP CC IN VBZ WRB PRP VBZ NNP NNP NNP NN VBD DT NN IN JJ IN DT NNS , CC PRP VBD NNP NNP VBD TO NN PRP TO VB PRP RB , CC IN MD VB RB NNP NNP , PRP VBP IN NN CC PRP VBP JJ NN NN WDT -NONE- VBG PRP VBP MD VB DT NN IN NNP NNP CC NNP NNP MD RB VB NN PRP NNP NNP IN PRP VBP RP DT NNP NNP VBP RB DT NN , NNP PRP VBP DT NN NN .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+First Africa , now France .NNP NNP , RB NNP .
+Do n't guess. Just come for my day 's pay owing and to tell you I 'm heading East .NNP RB NNP NNP NN IN PRP$ NN POS NN NN CC TO VB PRP PRP VBP VBG NNP .
+Yes , he 's fine , too. You saw them at Easter .NNS , PRP VBZ NN , NNP NNP VBD PRP IN NNP .
+
+What do we think we know ?WP VBP PRP VBP PRP VBP .
+Do n't mess with the King .NNP RB VB IN DT NNP .
+Mary Talbot ! ! The girl that married Henry Percy. It seems she has petitioned the King , demanding a divorce from her husband ... that his prior betrothal to you was actually.. ..consummated. I knew this would come back to haunt us !NNP NNP . . DT NN IN JJ NNP NNP NNP VBZ PRP VBZ VBN DT NNP , VBG DT NN IN PRP$ NN : IN PRP$ NN NN TO PRP VBD NNP NNP NNP VBD DT MD VB RB TO VB PRP .
+
+Oh yeah ? Like how ?UH NN . NNP WRB .
+The Cook said I speak good English .DT NNP VBD PRP VBP JJ NNS .
+Since when does Ellie need moral supp --IN WRB VBZ NNP VBP JJ NN :
+
+Doing pretty well ?VBG RB RB .
+Pretty .RB .
+Sounds pretty well figured out .NNS RB RB VBN RP .
+
+Finally , just very quickly , one word answer or two word answers , who is going to win ?RB , RB RB RB , CD NN NN CC CD NN NNS , WP VBZ VBG TO VB .
+Norland in its entirety is therefore yours by law and I am happy for you and Fanny. But your stepmother my wife and daughters are left with only five hundred pounds a year , barely enough to live on and nothing for the girls ' dowries. You must help them .NNP IN PRP$ NN VBZ RB VBZ IN NN CC PRP VBP JJ IN PRP CC NNP CC PRP$ NN PRP$ NN CC NNS VBP VBN IN RB CD VBN NNS DT NN , RB RB TO VB IN CC NN IN DT NNS POS NNP NNP MD VB PRP .
+Who wins ?WP NNS .
+
+They are. But you 're not going to jail. You 're going back to Germany .PRP VBP CC PRP VBP RB VBG TO NNP NNP NNP VBG RB TO NNP .
+Walk around the world .NNP IN DT NN .
+A nut cup .DT NN NN .
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Weatherman. Channel 9 , Pittsburgh .NNP NNP CD , NNP .
+
+Both of us will never make it. But one of us can. Give me ten seconds , then break for the embassy and do n't stop running until you 're at the gates. It 's a hundred yards , so move it .DT IN PRP MD RB VB NNP CC CD IN PRP NNP NNP PRP RB VBZ , RB VB IN DT NN CC VBP RB VB VBG IN PRP VBP IN DT NNP NNP POS DT CD NNS , RB VB PRP .
+What are you going to sing ?WP VBP PRP VBG TO VBG .
+What are you going to play ?WP VBP PRP VBG TO VB .
+
+Why are you here ?WRB VBP PRP RB .
+Why are they special ?WRB VBP PRP JJ .
+Why are you laughing ?WRB VBP PRP VBG .
+
+General Ulysses S. Grant 's field flask , my friend. Throw in one of those backpacks and we 'll call it even .NNP NNPS NNP NNP POS NN NN , PRP$ NNP NNP IN CD IN DT NNS CC PRP MD VB PRP RB .
+Is the government helping you here , the US government ?VBZ DT NN VBG PRP RB , DT NNP NN .
+You did n't let ME down. Or even Lou. We do n't live or die by what you scribble , Fink. You let Ben Geisler down. He liked you. Trusted you. And that 's why he 's gone. Fired. That guy had a heart as big as the outdoors , and you fucked him. He tried to convince me to fire you too , but that would be too easy. No , you 're under contract and you 're gon na stay that way. Anything you write will be the property of Capitol Pictures. And Capitol Pictures will not produce anything you write. Not until you grow up a little. You ai n't no writer , Fink you 're a goddamn write-off .PRP VBD RB VB PRP NNP CC RB NNP NNP VBP RB VB CC VB IN WP PRP VBP , NNP NNP VB NNP NNP NNP NNP VBD NNP NNP NNP CC IN VBZ WRB PRP VBZ NNP NNP NNP NN VBD DT NN IN JJ IN DT NNS , CC PRP VBD NNP NNP VBD TO NN PRP TO VB PRP RB , CC IN MD VB RB NNP NNP , PRP VBP IN NN CC PRP VBP JJ NN NN WDT -NONE- VBG PRP VBP MD VB DT NN IN NNP NNP CC NNP NNP MD RB VB NN PRP NNP NNP IN PRP VBP RP DT NNP NNP VBP RB DT NN , NNP PRP VBP DT NN NN .
+
+My team .PRP$ NN .
+Come with me. The team 's already waiting .NNP IN NNP NNP NN POS RB VBG .
+We think it might. That 's why we brought you here. We 've assembled your team -- they 're waiting for us now .PRP VBP PRP NNP NNP POS WRB PRP VBD PRP NNP NNP NNP VBD PRP$ NN : PRP VBP VBG IN PRP RB .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+What is your intended purpose of your visit to the United States ?WP VBZ PRP$ VBN NN IN PRP$ NN TO DT NNP NNPS .
+You have plans for the holiday ?PRP VBP NNS IN DT NN .
+You wait here'n to take us ? Like you bus driver to dere ?PRP VBD JJ TO VB PRP . NNP PRP VBZ RB TO VB .
+
+And when did you do it ?CC WRB VBD PRP VBP PRP .
+When am I supposed to see my son ?WRB VBP PRP VBD TO VB PRP$ NN .
+So I 'll see you this weekend .IN PRP MD VB PRP DT NN .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+Who would be the one in your lifetime that you think was the most effective president ?WP MD VB DT CD IN PRP$ NN WDT PRP VBP VBD DT JJS JJ NN .
+Not a god damn thing .RB DT NN NN NN .
+Thank you very much. Are n't you a gentleman ? Mr. ...NNP PRP RB NNP NNP RB PRP DT NN . NNP :
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+
+Pure politics !NN NNS .
+Against my politics .IN PRP$ NNS .
+Is that sand we 've just seen ?VBZ IN NN PRP VBP RB VBN .
+
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+I do n't know anything .PRP VBP RB VB NN .
+
+People now have dignity when frying eggs ?NNS RB VBP NN WRB VBG NNS .
+When you walk around , are people supportive to you ?WRB PRP VBP RP , VBP NNS JJ TO PRP .
+I have put on some makeup and I am dressed as a woman .PRP VBP VBN IN DT NN CC PRP VBP VBN IN DT NN .
+
+Last week ...JJ NN :
+That 's okay. I 'm sorry. That 's fucked up , dude. When was it ?DT VBZ NNP NNP NNP NNP NNP POS JJ IN , NNP NNP VBD PRP .
+What kind of thing are you going to be really getting into from a personal point of view ?WP NN IN NN VBP PRP VBG TO VB RB VBG IN IN DT JJ NN IN NN .
+
+A hotel would 've been fine. We 'll have to tell Mr Greenleaf how far his dollar has stretched .DT NN MD VB VBN NNP NNP NNP VBP TO VB NNP NNP WRB JJ PRP$ NN VBZ VBN .
+Okey-dokey , go ahead .JJ , VBP RB .
+What a funny guy !WP DT JJ NN .
+
+Squint harder .NNP NN .
+I know , Ted .PRP VBP , NNP .
+I know , Ted .PRP VBP , NNP .
+
+Fine .NN .
+Fine .NN .
+Fine .NN .
+
+Thoughts ?NNS .
+Your thoughts ?PRP$ NNS .
+Your thoughts ?PRP$ NNS .
+
+My name .PRP$ NN .
+Your name .PRP$ NN .
+Her name ?PRP$ NN .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+When is the point when we should look at how you 're performing and properly judge you ?WRB VBZ DT NN WRB PRP MD VB IN WRB PRP VBP VBG CC RB NN PRP .
+When is the point when we should look at how you 're performing and properly judge it ?WRB VBZ DT NN WRB PRP MD VB IN WRB PRP VBP VBG CC RB NN PRP .
+Thanks , Gus .NNS , NNP .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+The actorDT NN
+My name is Orson WellesPRP$ NN VBZ NNP NNP
+The actor ?DT NN .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+His inner sanctum. Not many people have been inside this room .PRP$ NN NNP NNP JJ NNS VBP VBN JJ DT NN .
+All through high school , he dated this one girl. They were inseparable. And when they graduated , she went off to Carnegie Mellon ...DT IN JJ NN , PRP VBD DT CD NNP NNP VBD NNP CC WRB PRP VBD , PRP VBD RP TO NNP NNP :
+Weatherman. Channel 9 , Pittsburgh .NNP NNP CD , NNP .
+
+Who would be the one in your lifetime that you think was the most effective president ?WP MD VB DT CD IN PRP$ NN WDT PRP VBP VBD DT JJS JJ NN .
+Not a god damn thing .RB DT NN NN NN .
+Thank you very much. Are n't you a gentleman ? Mr. ...NNP PRP RB NNP NNP RB PRP DT NN . NNP :
+
+July .RB .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+What month ?WP NN .
+
+Vacation ?NN .
+So , where were you going ?IN , WRB VBD PRP VBG .
+On vacation ?IN NN .
+
+Who would be the one in your lifetime that you think was the most effective president ?WP MD VB DT CD IN PRP$ NN WDT PRP VBP VBD DT JJS JJ NN .
+Not a god damn thing .RB DT NN NN NN .
+Thank you very much. Are n't you a gentleman ? Mr. ...NNP PRP RB NNP NNP RB PRP DT NN . NNP :
+
+Who would be the one in your lifetime that you think was the most effective president ?WP MD VB DT CD IN PRP$ NN WDT PRP VBP VBD DT JJS JJ NN .
+Not a god damn thing .RB DT NN NN NN .
+Thank you very much. Are n't you a gentleman ? Mr. ...NNP PRP RB NNP NNP RB PRP DT NN . NNP :
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+I knew you must have. No one stops here anymore unless they do. But it 's no good dwelling on our losses , is it. We go right ahead lighting signs and following the formalities ... Would you sign , please. Your home address. Oh , just the town will do .PRP VBD PRP MD NNP NNP CD NNS RB VBP IN PRP NNP CC PRP VBZ DT JJ NN IN PRP$ NNS , VBZ NNP NNP VBP RB RB VBG NNS CC VBG DT NNS : MD PRP VB , NNP NNP NN NNP NNP , RB DT NN MD VB .
+From Los Angeles ?IN NNP NNP .
+From Los Angeles ?IN NNP NNP .
+
+From France ?IN NNP .
+To Paris. Paris , France .TO NNP NNP , NNP .
+First Africa , now France .NNP NNP , RB NNP .
+
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+When did you discover for the first time that Phoebe was being bullied ?WRB VBD PRP RB IN DT JJ NN WDT NNP VBD VBG VBN .
+Let me start with you , Carol ?NNP PRP VB IN PRP , NNP .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+President Obama ?NNP NNP .
+Michael Wolff , who is going to win this election ?NNP NNP , WP VBZ VBG TO VB DT NN .
+For President Obama ?IN NNP NNP .
+
+I do n't know anything .PRP VBP RB VB NN .
+Anything .NN .
+Anything .NN .
+
+Yeah , that 's what I mean. Where the hell does this guy live anyway ?NNP , IN POS WP PRP NNP NNP DT NN VBZ DT NN VBP NN .
+Well , again , where do you think that came from , fish and chips ?NNP , RB , WRB VBP PRP VB IN NN IN , JJ CC NNS .
+I did n't -- I did n't agree , I did n't agree that it necessarily should result in immediate gun control because I look at the murder that took place in Norway or in Finland where , what , 79 people were killed without a gun ?PRP VBD RB : PRP VBD RB VB , PRP VBD RB VB IN PRP RB MD VB IN JJ NN NN IN PRP VBP IN DT NN IN NN NN IN NNP CC IN NNP WRB , WP , CD NNS VBD VBN IN DT NN .
+
+Who would be the one in your lifetime that you think was the most effective president ?WP MD VB DT CD IN PRP$ NN WDT PRP VBP VBD DT JJS JJ NN .
+Not a god damn thing .RB DT NN NN NN .
+Thank you very much. Are n't you a gentleman ? Mr. ...NNP PRP RB NNP NNP RB PRP DT NN . NNP :
+
